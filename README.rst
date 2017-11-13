@@ -1,5 +1,5 @@
 =======================
-Naive Digit Recognition
+Naïve Digit Recognition
 =======================
 
 The project consists of two parts: basic task and advanced task.
