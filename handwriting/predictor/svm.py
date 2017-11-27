@@ -1,7 +1,7 @@
 from sklearn.externals import joblib
 from skimage.feature import hog
 import numpy as np
-from predictor import Predictor
+from .predictor import Predictor
 
 class SVMPredictor(Predictor):
     def __init__(self, model_file_name):
